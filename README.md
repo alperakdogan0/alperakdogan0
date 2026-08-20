@@ -80,18 +80,6 @@ Data analysis project focused on marketing and user behavior.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alperakdogan0&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperakdogan0&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://linkedin.com/in/alper-akdogan
